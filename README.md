@@ -36,7 +36,7 @@ root                    (project root folder)
 ---
 * Kjellden Knutzen Kjelldenknutzen@gmail.com 
 
-* (name and email)
+* (marco sarango sar21005@byui.edu)
 
 * (name and email)
 
